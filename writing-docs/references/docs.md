@@ -17,7 +17,7 @@
 
 ## What to leave out
 
-- Absence claims ("there is no pre-commit", "the old service is removed"). Keep a negative only when a reader would otherwise get it wrong ("no `aud` check").
+- Absence claims ("there is no pre-commit", "the old service is removed"). Keep a negative only when a reader would otherwise get it wrong ("the API does not retry").
 - Change history and dates of decisions (they go into the MR and ADRs).
 - Time estimates, open questions and options the user did not ask to include.
 - Anything the code says better (function lists, file trees that drift).

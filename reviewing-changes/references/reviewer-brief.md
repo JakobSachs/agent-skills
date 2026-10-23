@@ -10,8 +10,8 @@ Diff: <how to get it, e.g. `git diff origin/<default-branch>...HEAD`, or the fil
 Read also: <design doc, CONTEXT.md, the module's tests>
 
 Earlier rounds (do not repeat these):
-- <finding> - fixed in <commit>
-- <finding> - rejected: <evidence>
+- <finding>: fixed in <commit>
+- <finding>: rejected, <evidence>
 
 Questions for this dimension:
 <paste the dimension's questions from dimensions.md; for a design doc, from design-review.md>

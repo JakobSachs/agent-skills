@@ -10,7 +10,7 @@ Docs describe what exists and how it behaves, in plain words, for a reader who h
 ## Core rules
 
 1. Update docs in the same change that alters behavior. Stale docs mislead agents and humans alike.
-2. What exists, not what is absent. Do not write "there is no X" or "X was removed". Keep a negative only when a reader would otherwise get it wrong ("no `aud` check", "never `git add -A`").
+2. What exists, not what is absent. Do not write "there is no X" or "X was removed". Keep a negative only when a reader would otherwise get it wrong ("the API does not retry", "never `git add -A`").
 3. No history. Change stories go into the MR description and git, not into living docs.
 4. Plain UNIX style. Short, factual, like a man page. No marketing, no enthusiasm, no emojis.
 5. Audience first. Decide who reads it and what they do with it. Customers get the effect on them, not the internals.

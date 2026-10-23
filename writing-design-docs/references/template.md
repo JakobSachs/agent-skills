@@ -47,7 +47,7 @@ Done when: <command or check>
 how to roll back, how to smoke test after deploy.>
 
 ## Open questions
-- <question> - owner: <who decides>
+- <question> (owner: <who decides>)
 ```
 
 ## Level of detail

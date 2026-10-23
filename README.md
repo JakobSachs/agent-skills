@@ -19,6 +19,8 @@ Skills for coding agents: how to communicate, investigate, design, build, test, 
 
 Flow: `investigating`, one-pager, `writing-design-docs`, build (`writing-code`, `testing`, `verifying`), `writing-comments`, `reviewing-changes`, MR, live. `developing-features` has the checklist.
 
+"MR" means merge request or pull request throughout.
+
 Skills link to each other with relative paths (`../communicating/...`), so install all of them side by side in one directory. Where a harness installs skills one by one (ChatGPT), cross-skill links do not resolve; each linking line also states the rule in short.
 
 ## Install

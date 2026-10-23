@@ -2,7 +2,7 @@
 
 In this order. Stop when the answer is proven.
 
-1. Design records: design docs, ADRs, `CONTEXT.md`, `docs/records/` or similar. They list rejected options and the reason. Search for the mechanism you are about to propose.
+1. Design records: design docs, ADRs, `CONTEXT.md`, `docs/adr/` or similar. They list rejected options and the reason. Search for the mechanism you are about to propose.
 2. The code on the remote default branch: `git fetch`, then search `origin/<default-branch>`. A local branch can be far behind.
 3. Tests: they show the intended behavior and what is not covered.
 4. Git history: `git log -S <term>` and `git blame` for why a line exists. The MR that added it often explains it.

@@ -3,7 +3,7 @@
 Bad (dev history):
 
 ```rust
-//! The dead-man's switch depends on TWO clocks (split plan, review-2 F1).
+//! Expiry depends on TWO clocks (see plan v2, review round 2, finding F1).
 ```
 
 Good:
@@ -30,27 +30,27 @@ retries = 3
 Bad (figurative):
 
 ```rust
-/// This is the load-bearing seam between the controller and executor.
+/// This is the load-bearing seam between the scheduler and the workers.
 ```
 
 Good:
 
 ```rust
-/// All controller commands enter the executor through this interface.
+/// All scheduler requests reach a worker through this interface.
 ```
 
 Bad (incident story in code):
 
 ```python
-# Added after a customer job looped for 6 hours last March.
-MAX_TURNS = 50
+# Added after a crawl looped for 6 hours last March.
+MAX_PAGES = 10_000
 ```
 
 Good:
 
 ```python
-# Caps a runaway agent; a normal task finishes in under 20 turns.
-MAX_TURNS = 50
+# Caps a runaway crawl; a normal site has under 2,000 pages.
+MAX_PAGES = 10_000
 ```
 
 Bad (field meaning far from the field):

@@ -1,6 +1,6 @@
 ---
 name: writing-docs
-description: Use when writing commit messages, MR or PR titles and bodies, or READMEs, AGENTS.md, CLAUDE.md, runbooks and customer docs, and when a change alters documented behavior. Comments: writing-comments.
+description: "Use when writing commit messages, MR or PR titles and bodies, or READMEs, AGENTS.md, CLAUDE.md, runbooks and customer docs, and when a change alters documented behavior. Comments: writing-comments."
 ---
 
 # Writing docs

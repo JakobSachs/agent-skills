@@ -1,6 +1,6 @@
 ---
 name: reviewing-changes
-description: Use to review a diff, MR/PR or design doc before any human sees it, and after each round of fixes. Runs independent review rounds until a round is clean.
+description: "Use to review a diff, MR/PR or design doc before any human sees it, and after each round of fixes. Runs independent review rounds until a round is clean."
 ---
 
 # Reviewing changes

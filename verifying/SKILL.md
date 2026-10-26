@@ -1,6 +1,6 @@
 ---
 name: verifying
-description: Use before claiming work is done, fixed, passing or live, and before committing or marking an MR ready. Requires fresh evidence for every claim.
+description: "Use before claiming work is done, fixed, passing or live, and before committing or marking an MR ready. Requires fresh evidence for every claim."
 ---
 
 # Verifying

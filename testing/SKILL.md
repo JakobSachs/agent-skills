@@ -1,6 +1,6 @@
 ---
 name: testing
-description: Use when writing, changing or reviewing tests, or fixing a known test failure (unknown cause: investigating). Property-based first, behavior over implementation, fixtures from the producer, flaky tests fixed on sight.
+description: "Use when writing, changing or reviewing tests, or fixing a known test failure (unknown cause: investigating). Property-based first, behavior over implementation, fixtures from the producer, flaky tests fixed on sight."
 ---
 
 # Testing

@@ -1,6 +1,6 @@
 ---
 name: communicating
-description: Use for every reply to the user: answers, reports, status updates, questions, and drafts or notes others will read. Sets format, length and tone. Code comments: writing-comments. MR title and body: writing-docs.
+description: "Use for every reply to the user: answers, reports, status updates, questions, and drafts or notes others will read. Sets format, length and tone. Code comments: writing-comments. MR title and body: writing-docs."
 ---
 
 # Communicating

@@ -1,6 +1,6 @@
 ---
 name: developing-features
-description: Use when asked to build, fix, change or refactor code (not pure research: investigating; not docs-only: writing-docs). Runs the change from request to merged and live, and lists the skill for each step.
+description: "Use when asked to build, fix, change or refactor code (not pure research: investigating; not docs-only: writing-docs). Runs the change from request to merged and live, and lists the skill for each step."
 ---
 
 # Developing features

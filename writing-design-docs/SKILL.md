@@ -1,6 +1,6 @@
 ---
 name: writing-design-docs
-description: Use before coding a feature or refactor (not small fixes), once the user agreed to the one-pager. Writes one detailed design doc that is also the implementation plan.
+description: "Use before coding a feature or refactor (not small fixes), once the user agreed to the one-pager. Writes one detailed design doc that is also the implementation plan."
 ---
 
 # Writing design docs

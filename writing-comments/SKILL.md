@@ -1,6 +1,6 @@
 ---
 name: writing-comments
-description: Use when adding code comments or docstrings, and for the comment pass over edited files before review. Keeps intent, invariants and contracts; removes history. READMEs: writing-docs. Design docs: writing-design-docs.
+description: "Use when adding code comments or docstrings, and for the comment pass over edited files before review. Keeps intent, invariants and contracts; removes history. READMEs: writing-docs. Design docs: writing-design-docs."
 ---
 
 # Writing comments

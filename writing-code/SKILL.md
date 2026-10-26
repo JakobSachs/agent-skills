@@ -1,6 +1,6 @@
 ---
 name: writing-code
-description: Use when writing or changing source code in Python, Rust, TypeScript or frontend apps. Types first, pure core with a thin I/O shell, reuse, one path per job. Comments: writing-comments. Tests: testing.
+description: "Use when writing or changing source code in Python, Rust, TypeScript or frontend apps. Types first, pure core with a thin I/O shell, reuse, one path per job. Comments: writing-comments. Tests: testing."
 ---
 
 # Writing code

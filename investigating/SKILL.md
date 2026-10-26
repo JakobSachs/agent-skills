@@ -1,6 +1,6 @@
 ---
 name: investigating
-description: Use before proposing any fix or design, and for research questions: bugs, failing tests, incidents, how X works, whether X exists. Finds and proves root causes. Building the fix: developing-features.
+description: "Use before proposing any fix or design, and for research questions: bugs, failing tests, incidents, how X works, whether X exists. Finds and proves root causes. Building the fix: developing-features."
 ---
 
 # Investigating
